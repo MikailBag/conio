@@ -1,0 +1,16 @@
+{
+  "name": "conio",
+  "version": "0.0.1",
+  "private": true,
+  "description": "allows you to easily create multi-tool console panels for cmdline",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ansi": "0.3",
+    "should":"7.0"
+  }
+}
